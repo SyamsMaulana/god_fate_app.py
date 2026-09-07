@@ -1,0 +1,25 @@
+cat << 'EOF' > team_registry.json
+[
+    {
+        "id": 1,
+        "name": "GOD•MauL",
+        "deck": "Dragapult ex / Living Death",
+        "registered_at": "2026-09-08 02:48:00",
+        "watermark": "ICAM/Syams Maulana - Al-Haqq Authentic"
+    },
+    {
+        "id": 2,
+        "name": "ShadowGrip",
+        "deck": "Control / Graveyard Loop",
+        "registered_at": "2026-09-08 02:48:00",
+        "watermark": "ICAM/Syams Maulana - Al-Haqq Authentic"
+    },
+    {
+        "id": 3,
+        "name": "VortexRider",
+        "deck": "Aggressive Beatdown",
+        "registered_at": "2026-09-08 02:48:00",
+        "watermark": "ICAM/Syams Maulana - Al-Haqq Authentic"
+    }
+]
+EOF
